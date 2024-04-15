@@ -1,0 +1,187 @@
+{
+  "name": "Typical University",
+  "faculties": [
+    {
+      "name": "Faculty of Science",
+      "departments": [
+        {
+          "name": "Physics Department",
+          "groups": [
+            {
+              "name": "Physics-1",
+              "students": [
+                {
+                  "group": "Physics-1",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Physics-1",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Physics-2",
+              "students": [
+                {
+                  "group": "Physics-2",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Physics-2",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics Department",
+          "groups": [
+            {
+              "name": "Math-1",
+              "students": [
+                {
+                  "group": "Math-1",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Math-1",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Math-2",
+              "students": [
+                {
+                  "group": "Math-2",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Math-2",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Faculty of Arts",
+      "departments": [
+        {
+          "name": "IT Department",
+          "groups": [
+            {
+              "name": "IT-1",
+              "students": [
+                {
+                  "group": "IT-1",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "IT-1",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "IT-2",
+              "students": [
+                {
+                  "group": "IT-2",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "IT-2",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Biologic Department",
+          "groups": [
+            {
+              "name": "Biologic-1",
+              "students": [
+                {
+                  "group": "Biologic-1",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Biologic-1",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            },
+            {
+              "name": "Biologic-2",
+              "students": [
+                {
+                  "group": "Biologic-2",
+                  "firstName": "Alice",
+                  "lastName": "Doe",
+                  "middleName": "Ivanovna",
+                  "sex": "FEMALE"
+                },
+                {
+                  "group": "Biologic-2",
+                  "firstName": "Bob",
+                  "lastName": "Doe",
+                  "middleName": "Petrovich",
+                  "sex": "MALE"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
